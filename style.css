@@ -1,0 +1,12 @@
+.container{ 
+    text-align: center;
+}
+button{
+    background: #069;
+    font-size: 32px;
+    color: whitesmoke;
+    padding: 8px 20px;
+    margin-top: 8px;
+    border: 0;
+    cursor: pointer;
+}
